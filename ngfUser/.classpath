@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="lib/DataEncryption.jar"/>
+	<classpathentry kind="lib" path="lib/dmsapi.jar"/>
+	<classpathentry kind="lib" path="lib/ejbclient.jar"/>
+	<classpathentry kind="lib" path="lib/ISPack.jar"/>
+	<classpathentry kind="lib" path="lib/jce1_2_2.jar"/>
+	<classpathentry kind="lib" path="lib/jcs.jar"/>
+	<classpathentry kind="lib" path="lib/jdts.jar"/>
+	<classpathentry kind="lib" path="lib/LCM_TestCode.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/log4j.jar"/>
+	<classpathentry kind="lib" path="lib/MWEIG5RL.ZIP"/>
+	<classpathentry kind="lib" path="lib/ngfrmbld.jar"/>
+	<classpathentry kind="lib" path="lib/ngfUser.jar"/>
+	<classpathentry kind="lib" path="lib/ngfUserChe.jar"/>
+	<classpathentry kind="lib" path="lib/NGUtility.jar"/>
+	<classpathentry kind="lib" path="lib/NIPLJ.jar"/>
+	<classpathentry kind="lib" path="lib/nsms.jar"/>
+	<classpathentry kind="lib" path="lib/omnidocs_hook.jar"/>
+	<classpathentry kind="lib" path="lib/omnishared.jar"/>
+	<classpathentry kind="lib" path="lib/reduce32.jar"/>
+	<classpathentry kind="lib" path="lib/SecurityAPI.jar"/>
+	<classpathentry kind="lib" path="lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc.jar"/>
+	<classpathentry kind="lib" path="lib/stubs.jar"/>
+	<classpathentry kind="lib" path="lib/wfdesktop.jar"/>
+	<classpathentry kind="lib" path="lib/resource_ar_SA.properties"/>
+	<classpathentry kind="lib" path="lib/resource_ja.properties"/>
+	<classpathentry kind="lib" path="lib/resource.properties"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
